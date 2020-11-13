@@ -21,6 +21,7 @@ section {
   overflow: hidden;
   text-decoration: none;
   color: #fff;
+  font-size: .001rem;
 }
 
 .hover-box h2 {
